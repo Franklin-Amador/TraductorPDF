@@ -1,0 +1,9 @@
+/.claude
+/crash.log
+/__pycache__
+*/eval_runs
+*/models_ct2
+eval_runs/
+models_ct2/
+
+# Ignorar archivos de Python compilados
