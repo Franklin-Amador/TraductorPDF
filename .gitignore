@@ -7,3 +7,7 @@ eval_runs/
 models_ct2/
 
 # Ignorar archivos de Python compilados
+*.pyc
+
+# Cache local de tooling (gentle-ai / SDD)
+/.atl/
